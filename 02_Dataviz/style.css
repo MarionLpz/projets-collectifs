@@ -1,0 +1,276 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgb(8, 7, 7);
+    cursor: url("vroum.cur"), auto;
+}
+
+h1 {
+    font-family: 'Arimo', sans-serif;
+    padding: 20px 150px 250px 5px;
+    color: rgb(254, 255, 253);
+    font-size: 70px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255)),
+        url(https://www.northumbria.ac.uk/-/media/images/banners/about-us/campus-services/parking-banner.jpg?modified=20180312135122);
+    background-position: 0%;
+    margin: -10px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+h2 {
+    margin-left: 20px;
+    margin-bottom: -20px;
+
+}
+
+
+.container {
+    position: relative;
+    padding: 8px;
+    left: 70%;
+    top: 2.5%;
+}
+
+input {
+    box-sizing: border-box;
+    outline: none;
+    height: 40px;
+    width: 350px;
+    padding: 0 100 px;
+    color: rgb(44, 41, 41);
+    border-radius: 50px;
+    font-size: 15px;
+    border: 1px solid black;
+    background: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.parking {
+    display: grid;
+    grid-template-rows: repeat(2, 0fr);
+    grid-column-gap: 70px;
+    grid-row-gap: 50px;
+    margin-left: 20px;
+
+
+}
+
+.div1 {
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.div2 {
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+.div3 {
+    grid-area: 1 / 3 / 2 / 4;
+}
+
+.div4 {
+    grid-area: 1 / 4 / 2 / 5;
+}
+
+.div5 {
+    grid-area: 1 / 5 / 2 / 6;
+}
+
+.div6 {
+    grid-area: 1 / 6 / 2 / 7;
+}
+
+.div7 {
+    grid-area: 2 / 1 / 3 / 2;
+}
+
+.div8 {
+    grid-area: 2 / 2 / 3 / 3;
+}
+
+.div9 {
+    grid-area: 2 / 3 / 3 / 4;
+}
+
+.div10 {
+    grid-area: 2 / 4 / 3 / 5;
+}
+
+.div11 {
+    grid-area: 2 / 5 / 3 / 6;
+}
+
+.div12 {
+    grid-area: 2 / 6 / 3 / 7;
+}
+
+.div13 {
+    grid-area: 3 / 1 / 4 / 2;
+}
+
+.div14 {
+    grid-area: 3 / 2 / 4 / 3;
+}
+
+.div15 {
+    grid-area: 3 / 3 / 4 / 4;
+}
+
+.div16 {
+    grid-area: 3 / 4 / 4 / 5;
+}
+
+.div17 {
+    grid-area: 3 / 5 / 4 / 6;
+}
+
+.div18 {
+    grid-area: 3 / 6 / 4 / 7;
+}
+
+.div19 {
+    grid-area: 4 / 1 / 5 / 2;
+}
+
+.div20 {
+    grid-area: 4 / 2 / 5 / 3;
+}
+
+.div21 {
+    grid-area: 4 / 3 / 5 / 4;
+}
+
+.div22 {
+    grid-area: 4 / 4 / 5 / 5;
+}
+
+.div23 {
+    grid-area: 4 / 5 / 5 / 6;
+}
+
+.div24 {
+    grid-area: 4 / 6 / 5 / 7;
+}
+
+.div25 {
+    grid-area: 5 / 1 / 6 / 2;
+}
+
+.div26 {
+    grid-area: 5 / 2 / 6 / 3;
+}
+
+.div27 {
+    grid-area: 5 / 3 / 6 / 4;
+}
+
+.div28 {
+    grid-area: 5 / 4 / 6 / 5;
+}
+
+.div29 {
+    grid-area: 5 / 5 / 6 / 6;
+}
+
+.div30 {
+    grid-area: 5 / 6 / 6 / 7;
+}
+
+.div31 {
+    grid-area: 6 / 1 / 7 / 2;
+}
+
+.div32 {
+    grid-area: 6 / 2 / 7 / 3;
+}
+
+.div33 {
+    grid-area: 6 / 3 / 7 / 4;
+}
+
+.div34 {
+    grid-area: 6 / 4 / 7 / 5;
+}
+
+.div35 {
+    grid-area: 6 / 5 / 7 / 6;
+}
+
+.div36 {
+    grid-area: 6 / 6 / 7 / 7;
+}
+
+/* CSS de la carte */
+
+#map {
+    height: 700px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+/* CSS de la légende */
+
+.legend {
+    padding: 6px 8px;
+    font: 14px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    line-height: 24px;
+    color: #555;
+}
+
+.legend h4 {
+    text-align: center;
+    font-size: 16px;
+    margin: 2px 12px 8px;
+    color: #555;
+}
+
+.legend span {
+    position: relative;
+    bottom: 3px;
+}
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin: 0 8px 0 0;
+    opacity: 0.7;
+    border: 1px solid #555;
+}
+
+.legend i.icon {
+    background-size: 18px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+/* CSS des popup */
+
+.leaflet-popup-tip {
+    color: #777;
+}
+
+.leaflet-popup-content-wrapper {
+    opacity: 0.9;
+}
+
+.leaflet-touch .leaflet-bar a {
+    width: 20px;
+    height: 20px;
+}
+
+#time {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #000000;
+}
