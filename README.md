@@ -1,21 +1,23 @@
 # Projets collectifs
 ***
-A Ada Tech School, du 24 janvier au 6 octobre 2023, nous avons réalisé 8 projets collectifs durant les 9 mois de formation initiale.
+A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 projets collectifs durant les 9 mois de formation initiale.
 
 ## Pico-8 - Mamie Caline
 * Période : 20 février au 3 mars 2023
-* Langage : LUA
 * Groupe de 3 personnes - 6 jours de réalisation
+* Langage : LUA
 * Projet : création d'un dating simulator 
 
 ![App Screenshot](https://user-images.githubusercontent.com/123973628/232418551-21b2d89e-af09-4917-8a31-648759d595ac.png)
 
 ## Datavizualisation - Transports
-Période : 20 mars au 31 mars 2023
-Langages : HTML, CSS, JS
-Outils : API Nantes Metropole
-Groupe de 3 personnes - 6 jours de réalisation
-Projet : Visualisation des flux de circulation en temps réel à Nantes, du taux de remplissage des parkings relais et des parkins publics.
+* Période : 20 mars au 31 mars 2023
+* Groupe de 3 personnes - 6 jours de réalisation
+* Langages : HTML, CSS, JS
+* Outils : API Nantes Metropole
+* Projet : Visualisation des flux de circulation en temps réel à Nantes, du taux de remplissage des parkings relais et des parkins publics.
+
+![App Screenshot](https://user-images.githubusercontent.com/123973628/232426560-8983385b-d3b5-4404-b7aa-46262f269a80.png)
 
 *** A VENIR ***
 
