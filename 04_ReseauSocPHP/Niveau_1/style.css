@@ -1,0 +1,262 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url('onlyClouds.png');
+    background-size: contain;
+    background-repeat: repeat;
+    font-family: Arial;
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(93 24 234);
+    ;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+textarea {
+    border-color: rgb(254 102 195);
+    width: 246px;
+    height: 70px;
+    margin-left: -30px;
+    border-radius: 8px;
+    overflow: auto;
+}
+
+select {
+    border-color: rgb(254 102 195);
+    width: 246px;
+    margin-left: -30px;
+    border-radius: 8px;
+    padding: 6px;
+}
+
+hr {
+    color: #fe66c3;
+}
+
+/* background */
+.background-full {
+    margin-bottom: 15px;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    width: 100%;
+    background: url(background.png) center center / cover no-repeat;
+}
+
+.background {
+    margin: 0 auto 3em auto;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 200px;
+    background-color: #ffffff7d;
+    border-radius: 30px;
+    width: 1300px;
+    /* background: url(backgroundAlt.png) center center / cover no-repeat; */
+}
+
+/* menu */
+.mega-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    margin-right: 150px;
+
+}
+
+.mega-menu__item {
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.46);
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.logoHeader {
+    height: 6em;
+    align-self: baseline;
+    margin-left: 60px;
+}
+
+
+.button_settings {
+    background-color: rgb(254 102 195);
+    border-radius: 30px;
+    border: none;
+    font-family: helvetica;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+}
+
+.button_settings_like {
+    background-color: rgb(254 102 195);
+    border-radius: 30px;
+    border: none;
+    font-family: helvetica;
+    padding: 10px;
+    font-size: 11px;
+    color: white;
+    margin-left: 8px;
+    opacity: 80%;
+}
+
+.button_log {
+    border-color: rgb(254 102 195);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 30px;
+    font-family: helvetica;
+    padding: 9px;
+    font-size: 13px;
+    height: 25px;
+    width: 222px;
+    margin: 5px;
+}
+
+.debord_gauche {
+    padding-left: 1em;
+}
+
+#wrapper {
+    display: flex;
+    width: 70em;
+    margin: 0 auto 2em auto;
+}
+
+#wrapper aside {
+    background-color: #fff;
+    flex: 1;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+#wrapper aside img {
+    display: block;
+    width: 50%;
+    margin: auto;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+#wrapper main {
+    flex: 3;
+    height: 80vh;
+}
+
+#wrapper main article {
+    background-color: #fff;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 1em;
+}
+
+#wrapper main article h3 {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-size: 1em;
+}
+
+#wrapper main article time {
+    float: right;
+    font-size: small;
+    font-family: monospace;
+}
+
+#wrapper main article address {
+    text-align: left;
+    font-weight: bolder;
+    margin-bottom: 1em;
+}
+
+#wrapper main article p {
+    margin: 0;
+}
+
+#wrapper main article footer {
+    margin-top: 1em;
+    text-align: right;
+    height: 45px;
+}
+
+#wrapper main article footer small {
+    float: left;
+}
+
+#wrapper.admin {
+    flex-direction: row-reverse;
+}
+
+#wrapper.admin aside {
+    flex: 1;
+    margin-left: 1em;
+    border-radius: 0;
+    padding: 0;
+}
+
+#wrapper.admin main {
+    flex: 2;
+    background-color: #fff;
+    border-radius: 0;
+    padding: 0;
+}
+
+#wrapper.admin h2 {
+    text-align: center;
+}
+
+#wrapper.admin h3 {
+    margin: 0;
+}
+
+
+#wrapper.admin article {
+    border: 1px solid #ddd;
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em;
+}
+
+#wrapper.admin article p {
+    float: left;
+    margin: 0;
+}
+
+.parameters dl dt {
+    float: left;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+.parameters dl dd {
+    margin-left: 15em;
+    line-height: 1.5em;
+}
+
+.contacts {
+    display: grid;
+    grid-template-columns: repeat(3, 1FR);
+    grid-gap: 16px;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.contacts article {
+    height: 7em;
+}
+
+.contacts article img {
+    float: right;
+    height: 5em;
+}
