@@ -9,5 +9,5 @@ Nous nous sommes basés sur une petite base de données en json que nous avons c
 
 Au lieu d'afficher les informations que l'on collecte depuis l'API wikipédia lors du mouse hover, on affiche seulement la position actuelle dans le gouvernement.
 
-###Auteurs
+### Auteurs
 Kévin Chéron, Edward Almedo, Marion Lopez
