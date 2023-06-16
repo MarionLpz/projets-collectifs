@@ -19,7 +19,7 @@ A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 proje
 
 ![App Screenshot](https://user-images.githubusercontent.com/123973628/232426560-8983385b-d3b5-4404-b7aa-46262f269a80.png)
 
-## Extension de navigateur
+## Extension de navigateur Chrome
 * Période : 2 mai au 12 mai 2023
 * Groupe de 3 personnes - 5 jours de réalisation
 * Langages : JS, CSS, HTML
@@ -33,6 +33,8 @@ A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 proje
 * Langages : PHP, SQL, HTML, CSS
 * Outils :
 * Projet : Création d'un réseau social à l'image des valeurs d'Ada Tech School, inclusif et safe pour tous.
+
+![mysafeplace_-_connexion_960](https://github.com/MarionLpz/projets-collectifs/assets/123973628/faa8e103-1c58-4dde-a3c9-83fc2e78b259)
 
 
 *** A VENIR ***
