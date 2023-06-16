@@ -19,14 +19,23 @@ A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 proje
 
 ![App Screenshot](https://user-images.githubusercontent.com/123973628/232426560-8983385b-d3b5-4404-b7aa-46262f269a80.png)
 
-*** A VENIR ***
-
 ## Extension de navigateur
-Période : 2 mai au 12 mai 2023
+* Période : 2 mai au 12 mai 2023
+* Groupe de 3 personnes - 5 jours de réalisation
+* Langages : JS, CSS, HTML
+* Outils : Chrome, maniputaion du DOM
+* Projet : création d'une extension qui détecte les noms de personnalités du gouvernement, les surligne et ouvre une pop-up pour préciser leur fonction.
+
 
 ## Réseau social PHP
-Période : 29 mai au 9 juin 2023
+* Période : 29 mai au 9 juin 2023
+* Groupe de 4 personnes - 5 jours de réalisation
+* Langages : PHP, SQL, HTML, CSS
+* Outils :
+* Projet : Création d'un réseau social à l'image des valeurs d'Ada Tech School, inclusif et safe pour tous.
 
+
+*** A VENIR ***
 ## Plateforme de vente de meubles
 Période : 26 juin au 7 juillet 2023
 
