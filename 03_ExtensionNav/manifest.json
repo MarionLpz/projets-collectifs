@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "mon-assistant.gouv.fr",
+    "version": "0.3.0",
+    "permissions": [
+        "storage",
+        "webRequest",
+        "contextMenus"
+    ],
+    "background": {
+        "service_worker": "service-worker.js"
+    },
+    
+    
+    "content_scripts": [
+        {
+            "matches": [   
+           "https://*/*",
+            "http://*/*"
+            ],
+            
+            
+            "js": [
+                "scripts/content-script.js"
+            ]
+            
+        }
+    ]
+}

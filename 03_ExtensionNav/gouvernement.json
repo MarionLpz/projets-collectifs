@@ -1,0 +1,212 @@
+[
+  {
+    "nom": "Macron",
+    "prénom": "Emmanuel",
+    "fonction": "Président de la République"
+  },
+  {
+    "nom": "Borne",
+    "prénom": "Elisabeth",
+    "fonction": "Premiere ministre"
+  },
+  {
+    "nom": "Veran",
+    "prénom": "Olivier",
+    "fonction": "Porte-parole du gouvernement"
+  },
+  {
+    "nom": "Riester",
+    "prénom": "Franck",
+    "fonction": "Ministre chargé des relations avec le parlement"
+  },
+  {
+    "nom": "Rome",
+    "prénom": "Isabelle",
+    "fonction": "Ministre à l'Égalité entre les femmes et les hommes, de la Diversité et de l'Égalité des chances"
+  },
+  {
+    "nom": "Caubel",
+    "prénom": "Charlotte",
+    "fonction": "Secrétaire d'Etat à l'Enfance\n"
+  },
+  {
+    "nom": "Berville",
+    "prénom": "Hervé",
+    "fonction": "Secrétaire d'Etat chargé de la Mer"
+  },
+  {
+    "nom": "Schiappa",
+    "prénom": "Marlène",
+    "fonction": "Secrétaire d'Etat de l'Économie sociale et solidaire et de la Vie associative"
+  },
+  {
+    "nom": "Lemaire",
+    "prénom": "Bruno",
+    "fonction": "Ministre de l'Économie, des Finances"
+  },
+  {
+    "nom": "Attal",
+    "prénom": "Gabriel",
+    "fonction": "Ministre chargé des Comptes publics"
+  },
+  {
+    "nom": "Lescure",
+    "prénom": "Roland",
+    "fonction": "Ministre chargé de l'Industrie"
+  },
+  {
+    "nom": "Barrot",
+    "prénom": "Jean-Noël",
+    "fonction": "Ministre chargé de la Transition numérique et des Télécommunications"
+  },
+  {
+    "nom": "Grégoire",
+    "prénom": "Olivia",
+    "fonction": "Ministre chargée des Petites et moyennes entreprises, du Commerce, de l'Artisanat et du Tourisme"
+  },
+  {
+    "nom": "Darmanin",
+    "prénom": "Gérald",
+    "fonction": "Ministre de l'Intérieur"
+  },
+  {
+    "nom": "Faure",
+    "prénom": "Dominique",
+    "fonction": "Secrétaire d'Etat chargée des collectivités territoriales"
+  },
+  {
+    "nom": "Carenco",
+    "prénom": "Jean-François",
+    "fonction": "Ministre des Outre-mer chargé des Outre-mer"
+  },
+  {
+    "nom": "Backès",
+    "prénom": "Sonia",
+    "fonction": "Secrétaire d'Etat chargée de la Citoyenneté"
+  },
+  {
+    "nom": "Colonna",
+    "prénom": "Catherine",
+    "fonction": "Ministre de l'Europe et des Affaires étrangères"
+  },
+  {
+    "nom": "Becht",
+    "prénom": "Olivier",
+    "fonction": "Ministre du Commerce extérieur"
+  },
+  {
+    "nom": "Boone",
+    "prénom": "Laurence",
+    "fonction": "Secrétaire d'État chargée de l'Europe"
+  },
+  {
+    "nom": "Zacharopoulou",
+    "prénom": "Chrysoula",
+    "fonction": "Secrétaire d'État chargée du Développement"
+  },
+  {
+    "nom": "Dupond-Moretti",
+    "prénom": "Éric",
+    "fonction": "Garde des Sceaux, ministre de la Justice"
+  },
+  {
+    "nom": "Lecornu",
+    "prénom": "Sébastien",
+    "fonction": "Ministre des Armées"
+  },
+  {
+    "nom": "El Haïry",
+    "prénom": "Sarah",
+    "fonction": "Secrétaire d'Etat chargée de la Jeunesse et du SNU"
+  },
+  {
+    "nom": "Mirallès",
+    "prénom": "Patricia",
+    "fonction": "Secrétaire d'État chargée des Anciens combattants et de la Mémoire"
+  },
+  {
+    "nom": "Dussopt",
+    "prénom": "Olivier",
+    "fonction": "Ministre du Travail, du Plein emploi et de l'Insertion"
+  },
+  {
+    "nom": "Grandjean",
+    "prénom": "Carole",
+    "fonction": "\nMinistre déléguée à l'Enseignement et de la Formation professionnels"
+  },
+  {
+    "nom": "N'Diaye",
+    "prénom": "Pap",
+    "fonction": "Ministre de l'Éducation nationale et de la Jeunesse"
+  },
+  {
+    "nom": "Retailleau",
+    "prénom": "Sylvie",
+    "fonction": "Ministre de l'Enseignement supérieur et de la Recherche"
+  },
+  {
+    "nom": "Fresneau",
+    "prénom": "Marc",
+    "fonction": "Ministre de l'Agriculture"
+  },
+  {
+    "nom": "Béchu",
+    "prénom": "Christophe",
+    "fonction": "Ministre de la Transition écologique"
+  },
+  {
+    "nom": "Beaune",
+    "prénom": "Clément",
+    "fonction": "Ministre délégué chargé des Transports"
+  },
+  {
+    "nom": "Couillard",
+    "prénom": "Bérangère",
+    "fonction": "Secrétaire d'Etat chargée de l'écologie"
+  },
+  {
+    "nom": "Faure",
+    "prénom": "Dominique",
+    "fonction": "Ministre déléguée à la ruralité"
+  },
+  {
+    "nom": "Pannier-Runacher",
+    "prénom": "Agnès",
+    "fonction": "Ministre de la transition énergétique"
+  },
+  {
+    "nom": "Abdul Malak",
+    "prénom": "Rima",
+    "fonction": "Ministre de la Culture"
+  },
+  {
+    "nom": "Braun ",
+    "prénom": "François",
+    "fonction": "Ministre de la Santé"
+  },
+  {
+    "nom": "Firmin Le Bodo",
+    "prénom": "Agnès",
+    "fonction": "Ministre déléguée chargée de l'Organisation territoriale et des Professions de santé"
+  },
+  {
+    "nom": "Combe",
+    "prénom": "Jean-Christophe",
+    "fonction": "Ministre des Solidarités, de l'Autonomie et des Personnes handicapées"
+  },
+  {
+    "nom": "Darrieussecq",
+    "prénom": "Geneviève",
+    "fonction": "Ministre déléguée en charge des personnes handicapées"
+  },
+  {
+    "nom": "Guerini",
+    "prénom": "Stanislas",
+    "fonction": "Ministre de la Transformation et de la Fonction publiques"
+  },
+  {
+    "nom": "Oudéa-Castéra",
+    "prénom": "Amélie",
+    "fonction": "Ministre des Sports"
+  }
+]
