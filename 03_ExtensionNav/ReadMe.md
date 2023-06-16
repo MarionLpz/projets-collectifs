@@ -8,3 +8,6 @@ Dû à la contrainte de temps (4 jours), nous avons revu nos objectifs à la bai
 Nous nous sommes basés sur une petite base de données en json que nous avons créé des membres actuels (Mai 2023) du gouvernement.
 
 Au lieu d'afficher les informations que l'on collecte depuis l'API wikipédia lors du mouse hover, on affiche seulement la position actuelle dans le gouvernement.
+
+###Auteurs
+Kévin Chéron, Edward Almedo, Marion Lopez
