@@ -2,6 +2,9 @@
 ***
 A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 projets collectifs durant les 9 mois de formation initiale.
 
+#### Warning
+Ces projets sont tous réalisés en équipe, pendant un temps contraint (généralement 6 jours de travail effectif - prise en main des technos comprises). Ne vous attendez pas à trouver ici des projets aboutis et sans failles de sécurité.
+
 ## Pico-8 - Mamie Caline
 * Période : 20 février au 3 mars 2023
 * Groupe de 3 personnes - 6 jours de réalisation
@@ -32,14 +35,18 @@ A Ada Tech School, du 30 janvier au 6 octobre 2023, nous avons réalisé 8 proje
 * Groupe de 4 personnes - 5 jours de réalisation
 * Langages : PHP, SQL, HTML, CSS
 * Outils :
-* Projet : Création d'un réseau social à l'image des valeurs d'Ada Tech School, inclusif et safe pour tous.
+* Projet : Création d'un réseau social à l'image des valeurs d'Ada Tech School, inclusif et safe, à partir d'un code existant. Prise en main de PHP et SQL.
 
 ![mysafeplace_-_connexion_960](https://github.com/MarionLpz/projets-collectifs/assets/123973628/faa8e103-1c58-4dde-a3c9-83fc2e78b259)
 
+## Plateforme de vente de meubles
+* Période : 26 juin au 7 juillet 2023
+* Groupe de 8 personnes - 6 jours de réalisation
+* Langages : JS
+* Stack technique : React JS, Bootstrap, Mango BD, Express, Node JS
+* Projet : Création d'un site de vente de meubles d'occasion -> prise en main des technos et mise en application à travers cet exemple.
 
 *** A VENIR ***
-## Plateforme de vente de meubles
-Période : 26 juin au 7 juillet 2023
 
 ## Plateforme de micro-blogging
 Période : 31 juillet au 11 août 2023
