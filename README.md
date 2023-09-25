@@ -39,18 +39,6 @@ Ces projets sont tous réalisés en équipe, pendant un temps contraint (génér
 
 ![mysafeplace_-_connexion_960](https://github.com/MarionLpz/projets-collectifs/assets/123973628/faa8e103-1c58-4dde-a3c9-83fc2e78b259)
 
-## Plateforme de vente de meubles
-* Période : 26 juin au 7 juillet 2023
-* Groupe de 8 personnes - 6 jours de réalisation
-* Langages : JS
-* Stack technique : React JS, Bootstrap, Mango BD, Express, Node JS
-* Projet : Création d'un site de vente de meubles d'occasion -> prise en main des technos et mise en application à travers cet exemple.
-
-*** A VENIR ***
-
-## Plateforme de micro-blogging
-Période : 31 juillet au 11 août 2023
-
 ## Mobile front
 Période : 28 août au 8 septembre 2023
 
